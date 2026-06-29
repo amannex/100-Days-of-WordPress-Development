@@ -1,15 +1,20 @@
-# Day 5
+<?php
 
-## Topics Learned
+function aman_register_tour_taxonomy() {
 
-- Taxonomies
-- Categories vs Tags
-- Custom Taxonomies
-- Taxonomy Queries
+    register_taxonomy(
+        'tour_type',
+        'tour',
+        array(
+            'label'        => 'Tour Types',
+            'public'       => true,
+            'hierarchical' => true
+        )
+    );
 
-## Key Learnings
+}
 
-- Taxonomies organize content.
-- Categories are hierarchical.
-- Tags are non-hierarchical.
-- Custom taxonomies help structure CPTs.
+add_action(
+    'init',
+    'aman_register_tour_taxonomy'
+);
