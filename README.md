@@ -18,7 +18,14 @@ By the way my WordPress journey started year ago, but i thought do record my upc
 - [x] Day 10 - Admin Notices
 - [x] Day 11 - WordPress REST API
 - [x] Day 12 - Sanitization and Escaping
-- [ ] Day 13
+- [x] Day 13 - Options and Settings API
+- [x] Day 14 - Database Structure and Custom Tables
+- [x] Day 15 - Post Meta and Custom Meta Boxes
+- [x] Day 16 - WordPress AJAX
+- [x] Day 17 - Roles and Capabilities
+- [x] Day 18 - WP-Cron and Scheduled Tasks
+- [x] Day 19 - Transients API and Caching
+
 
 ## Goals
 
