@@ -1,0 +1,23 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "travel/property-card",
+    "title": "Property Card",
+    "category": "widgets",
+    "icon": "admin-home",
+    "description": "Displays a Property Card.",
+    "supports": {
+        "html": false
+    },
+    "attributes": {
+        "price": {
+            "type": "number"
+        },
+        "city": {
+            "type": "string"
+        },
+        "bedrooms": {
+            "type": "number"
+        }
+    }
+}
