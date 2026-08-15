@@ -1,0 +1,31 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "travel/property-card",
+    "version": "1.0.0",
+    "title": "Property Card",
+    "category": "widgets",
+    "icon": "admin-home",
+    "description": "A custom property card block.",
+
+    "attributes": {
+        "title": {
+            "type": "string",
+            "default": "2BHK Apartment"
+        },
+        "city": {
+            "type": "string",
+            "default": "Noida"
+        },
+        "price": {
+            "type": "number",
+            "default": 18000
+        },
+        "bedrooms": {
+            "type": "number",
+            "default": 2
+        }
+    },
+
+    "editorScript": "file:./index.js"
+}
