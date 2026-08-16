@@ -25,6 +25,10 @@ By the way my WordPress journey started year ago, but i thought do record my upc
 - [x] Day 17 - Roles and Capabilities
 - [x] Day 18 - WP-Cron and Scheduled Tasks
 - [x] Day 19 - Transients API and Caching
+- [x] Day 20 - REST API Authentication
+- [x] Day 21 - Gutenberg Block Development
+- [x] Day 22 - Gutenberg Block Development Part 2
+- [x] Day 23 - Gutenberg Block Development Part 3
 
 
 ## Goals
