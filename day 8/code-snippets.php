@@ -26,4 +26,5 @@ add_action('customize_register', 'aman_customize_register');
 
 
 // Display it
+?>
 <p><?php echo esc_html(get_theme_mod('footer_text')); ?></p>
