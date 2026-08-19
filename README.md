@@ -29,6 +29,9 @@ By the way my WordPress journey started year ago, but i thought do record my upc
 - [x] Day 21 - Gutenberg Block Development
 - [x] Day 22 - Gutenberg Block Development Part 2
 - [x] Day 23 - Gutenberg Block Development Part 3
+- [x] Day 24 - Dynamic Gutenberg Blocks
+- [x] Day 25 - Dynamic Property Card + Custom Post Type
+- [x] Day 26 - WordPress Security
 
 
 ## Goals
