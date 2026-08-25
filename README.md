@@ -34,6 +34,8 @@ By the way my WordPress journey started year ago, but i thought do record my upc
 - [x] Day 26 - WordPress Security
 - [x] Day 27 - Actions & Filters 
 - [x] Day 28 - WordPress Plugin Development
+- [x] Day 29 - WordPress Admin Menu & Settings API
+- [x] Day 30 - WordPress REST API
 
 ## Goals
 

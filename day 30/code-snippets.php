@@ -69,7 +69,7 @@ return new WP_Error(
 /**
  * Permission callback.
  */
-'permission_callback' => function () {
+$permission_callback = function () {
 
     return current_user_can(
         'manage_options'
