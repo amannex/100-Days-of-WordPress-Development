@@ -36,6 +36,7 @@ By the way my WordPress journey started year ago, but i thought do record my upc
 - [x] Day 28 - WordPress Plugin Development
 - [x] Day 29 - WordPress Admin Menu & Settings API
 - [x] Day 30 - WordPress REST API
+- [x] Day 31 — WordPress REST API: POST
 
 ## Goals
 
